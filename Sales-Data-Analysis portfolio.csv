@@ -1,0 +1,26 @@
+Payment Type,Number of Transactions,,Products,Total Quantity Sold,,Products,Total Revenue,
+ Cash,76,,Beverages,34983.14,,Beverages,"$103,200.26",
+ Credit Card,120,,Burgers,29022.31,,Burgers,"$376,999.81",
+ Gift Card,58,,Chicken Sandwiches,11135.92,,Chicken Sandwiches,"$114,641.70",
+Grand Total,254,,Fries,32034.34,,Fries,"$125,674.29",
+,,,Sides & Other,9819.6,,Sides & Other,"$48,999.80",
+,,,Grand Total,116995.31,,Grand Total,"$769,515.86",
+,,,,,,,,
+,,,,,,,,
+City,Total Revenue,,Month,Total Revenue,,Products,StdDev of Revenue,StdDev of Quantity
+Berlin,"$100,600.13",,Nov,"$332,114.66",,Beverages,$94.23,31.94346633
+Lisbon,"$241,714.12",,Dec,"$437,401.20",,Burgers,$978.09,75.29535876
+London,"$211,201.04",,Grand Total,"$769,515.86",,Chicken Sandwiches,$571.26,25.13788131
+Madrid,"$136,200.27",,,,,Fries,"$1,947.20",32.33681006
+Paris,"$79,800.31",,Months,Average Revenue,,Sides & Other,$0.00,6.60725E-06
+Grand Total,"$769,515.86",,Nov,"$2,939.07",,Grand Total,"$2,420.12",214.8886992
+,,,Dec,"$3,102.14",,,,
+,,,Grand Total,"$3,029.59",,,,
+,,,,,,,,
+Products,Var of Revenue,Var of Quantity,,Products,Average of Revenue,Average of Quantity,,
+Beverages,"$8,879.90",1020.385041,,Beverages,"$2,064.01",699.6628,,
+Burgers,"$956,653.61",5669.391051,,Burgers,"$7,250.00",558.1213462,,
+Chicken Sandwiches,"$326,337.32",631.9130769,,Chicken Sandwiches,"$2,204.65",214.1523077,,
+Fries,"$3,791,599.45",1045.669285,,Fries,"$2,464.20",628.1243137,,
+Sides & Other,$0.00,4.36557E-11,,Sides & Other,"$1,000.00",200.4,,
+Grand Total,"$5,856,972.96",46177.15305,,Grand Total,"$3,029.59",460.6114567,,
